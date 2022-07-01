@@ -34,11 +34,12 @@ function App() {
       <div>
       <Navbar bg="dark" variant="dark">
 
-        <Navbar.Brand href="#home" className="title1">News</Navbar.Brand>
+        <Navbar.Brand href="#home" className="title1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name&nbsp;&nbsp;&nbsp;</Navbar.Brand>
         <Nav className="me-auto">
           <Button onClick={changePage} value="Home" variant="link">Home</Button>
           <Button onClick={changePage} value="Location" variant="link">Location of the ISS</Button>
           <Button variant="link">Link</Button>
+          <Button variant="link">Login</Button>
           <Nav.Link href="#pricing">Visualizer</Nav.Link>
           <Nav.Link href="#pricing" ><AiOutlineSearch />Search</Nav.Link>
         </Nav>
