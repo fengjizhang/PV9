@@ -1,7 +1,7 @@
 # Getting Started with pv9
 
 This project is a work in progress...
-It stores data of objects in flight, which could be anything: the international space station, meteroids, or planes. And display their path and location on a map.
+When complete, it stores data of objects in flight, which could be anything: the international space station, meteroids, or planes. And from the past data, it should calculate the future trajectory, display their path and location on a map. For map, I've chosen to use leaflet, since I can directly draw and put figures onto the map. 
 
 ## Available Scripts
 
