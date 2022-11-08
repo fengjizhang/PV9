@@ -1,3 +1,5 @@
+Now with updated GUI. 
+
 # Getting Started with pv9
 
 This project is a work in progress...
